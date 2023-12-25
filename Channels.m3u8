@@ -1,0 +1,61 @@
+#EXTM3U x-tvg-url=""
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" tvg-id="TVPublica.ar" group-title="Aire",TV Pública
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/america@2x.png" tvg-id="AmericaTV.ar" group-title="Aire",América
+https://
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnueve@2x.png" tvg-id="ElNueve.ar" group-title="Aire",El Nueve
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrEFb2HmNIuKvctI-L2kP9PBsxz0NV6GoKbqaa6VPqAZKXBuJp2JWMAoWJvPq7vuRGgJh2M4_Rre_-cBOjI702bn_yrwxshPKjLEUPE8-fq6yoxHBMQ-UeRuWULiQ3hy7DBeadbUs8zr5MBzMO-YQhDhXfoSDemp1ag7qeX4CGyDDrX4D6ODt2x3TLOmLSVLi7SNmK5npK_cMo8UN_GkLN_q01t453WFnxbflyI5ojhEiMvIzeiVEvLM_wyOa1dyxFaPNj_vvzRRamq4rJT1qbblhEPKH4Ml_dKo44GxYcxrhmQfN17U32Q9F80gzICy5MOKhpOf-ZqQx1F7X2it7Fyb5Lz2vsd3nId2Duh7qK4f0YpzLKrau3obIrAWlU7KyUaZFYOOsjlp6YpLedv3xhf6HLLX1rEDEh7Nkzpz54bYfP0ZIAkyXtNF1gMkOme8ZEqoHxQgbBtY-QmuezUQMaicUo1MHwuZNElpgMBWtiyO2aSPXgiaovxZC2OSRUvjnY5DYyVF3lCKYcV92xMrrJSmvb8eJrOUK7CwioqduDd9U8TG0o8tXIXRIm-joqlF4TplRgpXqZZj9UZIQjuXdeu33UNPcu-luwsnlR3g1_BJkxsNA7rjkPRREIrX6MIsU94s-5eAV_wWbKeQUTvX97kB0ya6O4ccSJ3X61Zl0WuHcgz5Vm7-0OAAzIAG4UbQUDjLkC9sMi7J-gydqLOPQbMZMWea13uART_2qWCMLdKdZw0Hi6QlZk78yPUPN46D_3WNk-pRfuPwbhXQYM1gI7jgy424Moh3OVBvyx6e631T4VRhgZl6DRGYp1EDMvhnSMCtBGkPol7zFiLUCcP2ajAeb0dpNC9qr8Cvsnc9fb0qmkRcg3MjaTfQJ-O_TSAsuYSXdb_Yx2RTpdFKPerPOsv5UB0aDFXVs2Be0e_ykHRzdCABKgl1cy1lYXN0LTEw3gY.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" tvg-id="Telefe.ar" group-title="Aire",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/eltrece@2x.png" tvg-id="ElTrece.ar" group-title="Aire",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" tvg-id="TodoNoticias.ar" group-title="Informativo",TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png" tvg-id="LaNacionPlus.ar" group-title="Informativo",LN+
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" tvg-id="A24.ar" group-title="Informativo",A24
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/c5n@2x.png" tvg-id="C5N.ar" group-title="Informativo",C5N
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/canal%2026%20128.png" tvg-id="Canal26.ar" group-title="Informativo",Canal 26
+plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" tvg-id="CronicaTV.ar" group-title="Informativo",Crónica TV
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgaragetv@2x.png" tvg-id="" group-title="Deportes",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" tvg-id="CineAr.ar" group-title="Peliculas",Cine.AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/pakapaka.png" tvg-id="Pakapaka.ar" group-title="Argentina",Pakapaka 
+https://
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" tvg-id="Encuentro.ar" group-title="Argentina",Encuentro 
+https://
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/KjD1uJS.png" tvg-id="Mirador.ar" group-title="Argentina",Mirador TV
+https://
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" group-title="Argentina",Tec TV
+https://
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar" group-title="Argentina",Telemax
+https://
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="Argentina",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/tvLHiAT.png" tvg-id="TVUniversidad.ar" group-title="Argentina",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
