@@ -28,6 +28,17 @@ https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/IP%20Noticias%20128.png" tvg-id="Canal26.ar" group-title="Informativo",IP Noticias
 plugin://plugin.video.youtube/play/?video_id=HTkRWgGltQw
 
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/nettv@2x.png" tvg-id="NETTV.ar" group-title="General",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/telemax@2x.png" tvg-id="Telemax.ar" group-title="General",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Latinatv%20128.png" tvg-id="" group-title="General",Latina TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png" tvg-id="" group-title="General",Tierra Mia
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgaragetv@2x.png" tvg-id="" group-title="Deportes",Garage TV
@@ -38,25 +49,17 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/pakapaka.png" tvg-id="Pakapaka.ar" group-title="Argentina",Pakapaka 
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/pakapaka.png" tvg-id="Pakapaka.ar" group-title="Infantil",Pakapaka 
 https://
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" tvg-id="Encuentro.ar" group-title="Argentina",Encuentro 
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" tvg-id="Encuentro.ar" group-title="Educativo",Encuentro 
 https://
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" group-title="Educativo",Tec TV
+https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/tvLHiAT.png" tvg-id="TVUniversidad.ar" group-title="Educativo",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/KjD1uJS.png" tvg-id="Mirador.ar" group-title="Argentina",Mirador TV
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" group-title="Argentina",Tec TV
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar" group-title="Argentina",Telemax
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="Argentina",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/tvLHiAT.png" tvg-id="TVUniversidad.ar" group-title="Argentina",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
