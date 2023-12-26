@@ -44,6 +44,23 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 https://
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" tvg-id="" group-title="Deportes",TYC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%20128x128.png" tvg-id="" group-title="Deportes",ESPN
+https://router.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%202%20128x128.png" tvg-id="" group-title="Deportes",ESPN 2
+https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%203%20128x128.png" tvg-id="" group-title="Deportes",ESPN 3
+https://delivery.cdn.rcs.net.ar/mnp/espn3_hls/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://tv-libre.com/img/espn4.webp" tvg-id="" group-title="Deportes",ESPN 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Espn%20Extra%20128.png" tvg-id="" group-title="Deportes",ESPN Extra
+https://router.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" tvg-id="" group-title="Deportes",FOX Sports
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" tvg-id="" group-title="Deportes",FOX Sports 2
+https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" tvg-id="" group-title="Deportes",FOX Sports 3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgaragetv@2x.png" tvg-id="" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" tvg-id="" group-title="Deportes",Discovery Turbo
@@ -97,6 +114,3 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NAT
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-
-#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="D| TyC Sports Internacional HD" tvg-logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png" group-title="TV | Deportes",D| TyC Sports Internacional HD 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155679 
