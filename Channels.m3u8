@@ -63,7 +63,7 @@ https://
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discovery@2x.png" tvg-id="" group-title="Documental",Discovery
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYCHANNELHD)/index.m3u8
-#EXTINF:-1 user-agent="VLC/3.0.10 LibVLC/3.0.10" tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryscience@2x.png" tvg-id="TECTV.ar" group-title="Documental",Discovery Science
+#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryscience@2x.png" tvg-id="TECTV.ar" group-title="Documental",Discovery Science
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYSCIENCEHD)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoverytheaterhd@2x.png" tvg-id="" group-title="Documental",Discovery Theater
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTHEATERHD)/index.m3u8
