@@ -4,6 +4,7 @@
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" tvg-id="TVPublica.ar" group-title="Aire",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/america@2x.png" tvg-id="AmericaTV.ar" group-title="Aire",América
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnueve@2x.png" tvg-id="ElNueve.ar" group-title="Aire",El Nueve
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrEFb2HmNIuKvctI-L2kP9PBsxz0NV6GoKbqaa6VPqAZKXBuJp2JWMAoWJvPq7vuRGgJh2M4_Rre_-cBOjI702bn_yrwxshPKjLEUPE8-fq6yoxHBMQ-UeRuWULiQ3hy7DBeadbUs8zr5MBzMO-YQhDhXfoSDemp1ag7qeX4CGyDDrX4D6ODt2x3TLOmLSVLi7SNmK5npK_cMo8UN_GkLN_q01t453WFnxbflyI5ojhEiMvIzeiVEvLM_wyOa1dyxFaPNj_vvzRRamq4rJT1qbblhEPKH4Ml_dKo44GxYcxrhmQfN17U32Q9F80gzICy5MOKhpOf-ZqQx1F7X2it7Fyb5Lz2vsd3nId2Duh7qK4f0YpzLKrau3obIrAWlU7KyUaZFYOOsjlp6YpLedv3xhf6HLLX1rEDEh7Nkzpz54bYfP0ZIAkyXtNF1gMkOme8ZEqoHxQgbBtY-QmuezUQMaicUo1MHwuZNElpgMBWtiyO2aSPXgiaovxZC2OSRUvjnY5DYyVF3lCKYcV92xMrrJSmvb8eJrOUK7CwioqduDd9U8TG0o8tXIXRIm-joqlF4TplRgpXqZZj9UZIQjuXdeu33UNPcu-luwsnlR3g1_BJkxsNA7rjkPRREIrX6MIsU94s-5eAV_wWbKeQUTvX97kB0ya6O4ccSJ3X61Zl0WuHcgz5Vm7-0OAAzIAG4UbQUDjLkC9sMi7J-gydqLOPQbMZMWea13uART_2qWCMLdKdZw0Hi6QlZk78yPUPN46D_3WNk-pRfuPwbhXQYM1gI7jgy424Moh3OVBvyx6e631T4VRhgZl6DRGYp1EDMvhnSMCtBGkPol7zFiLUCcP2ajAeb0dpNC9qr8Cvsnc9fb0qmkRcg3MjaTfQJ-O_TSAsuYSXdb_Yx2RTpdFKPerPOsv5UB0aDFXVs2Be0e_ykHRzdCABKgl1cy1lYXN0LTEw3gY.m3u8
@@ -46,6 +47,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgaragetv@2x.png" tvg-id="" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" tvg-id="" group-title="Deportes",Discovery Turbo
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTURBOHD)/index.m3u8
 
 
@@ -62,26 +64,34 @@ https://
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" group-title="Documental",Tec TV
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discovery@2x.png" tvg-id="" group-title="Documental",Discovery
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYCHANNELHD)/index.m3u8
-#EXTINF:-1 vg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryscience@2x.png" tvg-id="TECTV.ar" group-title="Documental",Discovery Science
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYSCIENCEHD)/index.m3u8?addhdr=User-Agent:Mozilla/5.0 (Linux; Android 10; K)
+#EXTINF:-1 vg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryscience@2x.png" tvg-id="" group-title="Documental",Discovery Science
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYSCIENCEHD)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoverytheaterhd@2x.png" tvg-id="" group-title="Documental",Discovery Theater
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K)"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTHEATERHD)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryworldhd@2x.png" tvg-id="" group-title="Documental",Discovery World
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(WORLDDISCOVERYHD)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/investigationdiscovery@2x.png" tvg-id="" group-title="Documental",Discovery ID
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(INVESTIGATIONDISCOVERYHD)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/lifetime.png" tvg-id="" group-title="Documental",LifeTime
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LIFETIME)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/history%20128.png" tvg-id="" group-title="Documental",History
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HISTORYHD)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/history%202%20128.png" tvg-id="" group-title="Documental",History 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(H2)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/animalplanet@2x.png" tvg-id="" group-title="Documental",Animal Planet
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ANIMALPLANETHD)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/nationalgeographichd@2x.png" tvg-id="" group-title="Documental",NAT GEO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NATIONALGEOGRAPHICHD)/index.m3u8
 
 
