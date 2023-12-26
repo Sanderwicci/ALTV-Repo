@@ -97,3 +97,6 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NAT
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="D| TyC Sports Internacional HD" tvg-logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png" group-title="TV | Deportes",D| TyC Sports Internacional HD 
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/155679 
