@@ -45,6 +45,8 @@ https://
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgaragetv@2x.png" tvg-id="" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" tvg-id="" group-title="Deportes",Discovery Turbo
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTURBOHD)/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" tvg-id="CineAr.ar" group-title="Peliculas",Cine.AR
@@ -55,12 +57,30 @@ https://
 https://
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" tvg-id="Encuentro.ar" group-title="Educativo",Encuentro 
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" tvg-id="Encuentro.ar" group-title="Documental",Encuentro 
 https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" group-title="Educativo",Tec TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" group-title="Documental",Tec TV
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/tvLHiAT.png" tvg-id="TVUniversidad.ar" group-title="Educativo",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discovery@2x.png" tvg-id="" group-title="Documental",Discovery
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYCHANNELHD)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryscience@2x.png" tvg-id="TECTV.ar" group-title="Documental",Discovery Science
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYSCIENCEHD)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoverytheaterhd@2x.png" tvg-id="" group-title="Documental",Discovery Theater
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTHEATERHD)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryworldhd@2x.png" tvg-id="" group-title="Documental",Discovery World
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(WORLDDISCOVERYHD)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/investigationdiscovery@2x.png" tvg-id="" group-title="Documental",Discovery ID
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(INVESTIGATIONDISCOVERYHD)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/lifetime.png" tvg-id="" group-title="Documental",LifeTime
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LIFETIME)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/history%20128.png" tvg-id="" group-title="Documental",History
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HISTORYHD)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/history%202%20128.png" tvg-id="" group-title="Documental",History 2
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(H2)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/animalplanet@2x.png" tvg-id="" group-title="Documental",Animal Planet
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ANIMALPLANETHD)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/nationalgeographichd@2x.png" tvg-id="" group-title="Documental",NAT GEO
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NATIONALGEOGRAPHICHD)/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
