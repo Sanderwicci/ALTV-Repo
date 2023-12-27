@@ -1,16 +1,39 @@
 #EXTM3U x-tvg-url=""
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" tvg-id="TVPublica.ar" group-title="Aire",TV Pública
+#EXTINF:-1 
+tvg-name="" 
+tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" 
+tvg-id="TVPublica.ar" 
+group-title="Aire",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/america@2x.png" tvg-id="AmericaTV.ar" group-title="Aire",América
+
+#EXTINF:-1 
+tvg-name="" 
+tvg-logo="https://telecentro.com.ar/img/cm/channels/america@2x.png" 
+tvg-id="AmericaTV.ar" 
+group-title="Aire",América
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnueve@2x.png" tvg-id="ElNueve.ar" group-title="Aire",El Nueve
+
+#EXTINF:-1 
+tvg-name="" 
+tvg-logo="https://telecentro.com.ar/img/cm/channels/elnueve@2x.png" 
+tvg-id="ElNueve.ar" group-title="Aire",El Nueve
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrEFb2HmNIuKvctI-L2kP9PBsxz0NV6GoKbqaa6VPqAZKXBuJp2JWMAoWJvPq7vuRGgJh2M4_Rre_-cBOjI702bn_yrwxshPKjLEUPE8-fq6yoxHBMQ-UeRuWULiQ3hy7DBeadbUs8zr5MBzMO-YQhDhXfoSDemp1ag7qeX4CGyDDrX4D6ODt2x3TLOmLSVLi7SNmK5npK_cMo8UN_GkLN_q01t453WFnxbflyI5ojhEiMvIzeiVEvLM_wyOa1dyxFaPNj_vvzRRamq4rJT1qbblhEPKH4Ml_dKo44GxYcxrhmQfN17U32Q9F80gzICy5MOKhpOf-ZqQx1F7X2it7Fyb5Lz2vsd3nId2Duh7qK4f0YpzLKrau3obIrAWlU7KyUaZFYOOsjlp6YpLedv3xhf6HLLX1rEDEh7Nkzpz54bYfP0ZIAkyXtNF1gMkOme8ZEqoHxQgbBtY-QmuezUQMaicUo1MHwuZNElpgMBWtiyO2aSPXgiaovxZC2OSRUvjnY5DYyVF3lCKYcV92xMrrJSmvb8eJrOUK7CwioqduDd9U8TG0o8tXIXRIm-joqlF4TplRgpXqZZj9UZIQjuXdeu33UNPcu-luwsnlR3g1_BJkxsNA7rjkPRREIrX6MIsU94s-5eAV_wWbKeQUTvX97kB0ya6O4ccSJ3X61Zl0WuHcgz5Vm7-0OAAzIAG4UbQUDjLkC9sMi7J-gydqLOPQbMZMWea13uART_2qWCMLdKdZw0Hi6QlZk78yPUPN46D_3WNk-pRfuPwbhXQYM1gI7jgy424Moh3OVBvyx6e631T4VRhgZl6DRGYp1EDMvhnSMCtBGkPol7zFiLUCcP2ajAeb0dpNC9qr8Cvsnc9fb0qmkRcg3MjaTfQJ-O_TSAsuYSXdb_Yx2RTpdFKPerPOsv5UB0aDFXVs2Be0e_ykHRzdCABKgl1cy1lYXN0LTEw3gY.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" tvg-id="Telefe.ar" group-title="Aire",Telefe
+
+#EXTINF:-1 
+tvg-name="" 
+tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" 
+tvg-id="Telefe.ar" 
+group-title="Aire",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/eltrece@2x.png" tvg-id="ElTrece.ar" group-title="Aire",El Trece
+
+#EXTINF:-1 
+tvg-name="" 
+tvg-logo="https://telecentro.com.ar/img/cm/channels/eltrece@2x.png" 
+tvg-id="ElTrece.ar" 
+group-title="Aire",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
