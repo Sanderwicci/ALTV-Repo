@@ -13,31 +13,31 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" tvg-id="TodoNoticias.ar" group-title="Informativo",TN
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tn.png" tvg-id="TodoNoticias.ar" group-title="Informativo",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png" tvg-id="LaNacionPlus.ar" group-title="Informativo",LN+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ln+.png" tvg-id="LaNacionPlus.ar" group-title="Informativo",LN+
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" tvg-id="A24.ar" group-title="Informativo",A24
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/a24.png" tvg-id="A24.ar" group-title="Informativo",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/c5n@2x.png" tvg-id="C5N.ar" group-title="Informativo",C5N
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/c5n.png" tvg-id="C5N.ar" group-title="Informativo",C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/canal%2026%20128.png" tvg-id="Canal26.ar" group-title="Informativo",Canal 26
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/canal26.png" tvg-id="Canal26.ar" group-title="Informativo",Canal 26
 plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" tvg-id="CronicaTV.ar" group-title="Informativo",Crónica TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/cronica.png" tvg-id="CronicaTV.ar" group-title="Informativo",Crónica TV
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/IP%20Noticias%20128.png" tvg-id="Canal26.ar" group-title="Informativo",IP Noticias
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ipnoticias.png" tvg-id="Canal26.ar" group-title="Informativo",IP Noticias
 plugin://plugin.video.youtube/play/?video_id=HTkRWgGltQw
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" tvg-id="Encuentro.ar" group-title="General",Encuentro 
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/encuentro.png" tvg-id="Encuentro.ar" group-title="General",Encuentro 
 plugin://plugin.video.youtube/play/?video_id=uowD4vZM9Js
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/nettv@2x.png" tvg-id="NETTV.ar" group-title="General",Net TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/nettv.png" tvg-id="NETTV.ar" group-title="General",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/telemax@2x.png" tvg-id="Telemax.ar" group-title="General",Telemax
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telemax.png" tvg-id="Telemax.ar" group-title="General",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Latinatv%20128.png" tvg-id="" group-title="General",Latina TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/latinatv.png" tvg-id="" group-title="General",Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png" tvg-id="" group-title="General",Tierra Mia
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tierramia.png" tvg-id="" group-title="General",Tierra Mia
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 
 
