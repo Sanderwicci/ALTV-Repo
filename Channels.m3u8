@@ -133,7 +133,7 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALPREMIERHD)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" tvg-id="" group-title="Entretenimiento",Star Channel
-https://
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AFOXCHANNEL&content-expiration=1699373940&user-id=1642591434&device-id=535683365&device-type=web&signature-ip=190.235.160.112&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=¶llel-limit=1&lang=es&signature-expiration=1699373940&signature-hash=b94235d653a1d48059b0c0149db650906eeb36b36dbd9db25006e1890c7e7429
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" tvg-id="" group-title="Entretenimiento",FX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8
