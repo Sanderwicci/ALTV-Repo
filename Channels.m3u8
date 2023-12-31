@@ -16,15 +16,15 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tn.png" tvg-id="TodoNoticias.ar" group-title="Informativo",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ln+.png" tvg-id="LaNacionPlus.ar" group-title="Informativo",LN+
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+plugin://plugin.video.youtube/play/?video_id=vfkUsBe_uBU
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/a24.png" tvg-id="A24.ar" group-title="Informativo",A24
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+plugin://plugin.video.youtube/play/?video_id=QGpHLgRnrx4
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/c5n.png" tvg-id="C5N.ar" group-title="Informativo",C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+plugin://plugin.video.youtube/play/?video_id=lOAt5-gi8t8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/canal26.png" tvg-id="Canal26.ar" group-title="Informativo",Canal 26
 plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/cronica.png" tvg-id="CronicaTV.ar" group-title="Informativo",Crónica TV
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+plugin://plugin.video.youtube/play/?video_id=avly0uwZzOE
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ipnoticias.png" tvg-id="Canal26.ar" group-title="Informativo",IP Noticias
 plugin://plugin.video.youtube/play/?video_id=HTkRWgGltQw
 
@@ -42,7 +42,7 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
-https://
+plugin://plugin.video.youtube/play/?video_id=4RVJXW2-3qk
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" tvg-id="" group-title="Deportes",TYC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%20128x128.png" tvg-id="" group-title="Deportes",ESPN
