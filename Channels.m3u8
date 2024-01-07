@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url=""
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/america.png" tvg-id="" group-title="Aire",América
 https://
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tvpublica.png" tvg-id="" group-title="Aire",TV Pública
@@ -9,6 +11,8 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrEFb2HmNIuKvctI-L2kP9PBsxz
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/eltrece.png" tvg-id="" group-title="Aire",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tn.png" tvg-id="TodoNoticias.ar" group-title="Informativo",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ln+.png" tvg-id="LaNacionPlus.ar" group-title="Informativo",LN+
@@ -23,6 +27,8 @@ plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
 plugin://plugin.video.youtube/play/?video_id=avly0uwZzOE
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ipnoticias.png" tvg-id="Canal26.ar" group-title="Informativo",IP Noticias
 plugin://plugin.video.youtube/play/?video_id=HTkRWgGltQw
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/encuentro.png" tvg-id="Encuentro.ar" group-title="General",Encuentro 
 plugin://plugin.video.youtube/play/?video_id=uowD4vZM9Js
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/nettv.png" tvg-id="NETTV.ar" group-title="General",Net TV
@@ -33,6 +39,8 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/terramia.png" tvg-id="" group-title="General",Tierra Mia
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
 plugin://plugin.video.youtube/play/?video_id=4RVJXW2-3qk
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" tvg-id="" group-title="Deportes",TYC Sports
@@ -66,6 +74,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" tvg-id="" group-title="Deportes",Discovery Turbo
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTURBOHD)/index.m3u8
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" tvg-id="CineAr.ar" group-title="Entretenimiento",Cine.AR
 https://
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" tvg-id="" group-title="Entretenimiento",Cinecanal
@@ -175,6 +185,8 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EUR
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/comedycentral@2x.png" tvg-id="" group-title="Entretenimiento",Comedy Central
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(COMEDYCENTRALHD)/index.m3u8
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/pakapaka.png" tvg-id="Pakapaka.ar" group-title="Infantil",Pakapaka 
 https://
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cartoonnetwork@2x.png" tvg-id="" group-title="Infantil",Cartoon Network
@@ -198,6 +210,8 @@ https://
 https://
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Dreamworks%20128.png" tvg-id="" group-title="Infantil",Dreamworks
 https://
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" group-title="Documental",Tec TV
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discovery@2x.png" tvg-id="" group-title="Documental",Discovery
@@ -230,6 +244,8 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ANI
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/nationalgeographichd@2x.png" tvg-id="" group-title="Documental",NAT GEO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NATIONALGEOGRAPHICHD)/index.m3u8
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/mtv@2x.png" tvg-id="" group-title="Musica",MTV
