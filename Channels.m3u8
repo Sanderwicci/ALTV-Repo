@@ -66,4 +66,4 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+https://edge-mix02-cte.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
