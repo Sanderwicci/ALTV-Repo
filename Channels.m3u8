@@ -1,12 +1,8 @@
 #EXTM3U x-tvg-url=""
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/america.png" tvg-id="" group-title="Aire",América
-https://
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tvpublica.png" tvg-id="" group-title="Aire",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/elnueve.png" tvg-id="" group-title="Aire",El Nueve
-https://
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telefe.png" tvg-id="" group-title="Aire",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/eltrece.png" tvg-id="" group-title="Aire",El Trece
@@ -25,8 +21,6 @@ plugin://plugin.video.youtube/play/?video_id=Hy4UCfsE6Yk
 plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/cronica.png" tvg-id="CronicaTV.ar" group-title="Informativo",Crónica TV
 plugin://plugin.video.youtube/play/?video_id=avly0uwZzOE
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ipnoticias.png" tvg-id="Canal26.ar" group-title="Informativo",IP Noticias
-https://
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/encuentro.png" tvg-id="Encuentro.ar" group-title="General",Encuentro 
@@ -41,8 +35,6 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
-plugin://plugin.video.youtube/play/?video_id=4RVJXW2-3qk
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" tvg-id="" group-title="Deportes",TYC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%20128x128.png" tvg-id="" group-title="Deportes",ESPN
@@ -71,193 +63,7 @@ https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgaragetv@2x.png" tvg-id="" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" tvg-id="" group-title="Deportes",Discovery Turbo
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTURBOHD)/index.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" tvg-id="CineAr.ar" group-title="Entretenimiento",Cine.AR
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" tvg-id="" group-title="Entretenimiento",Cinecanal
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINECANALHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" tvg-id="" group-title="Entretenimiento",TNT
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntseries@2x.png" tvg-id="" group-title="Entretenimiento",TNT Series
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTSERIESHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" tvg-id="" group-title="Entretenimiento",TNT Novelas
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTNOVELAS)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo@2x.png" tvg-id="" group-title="Entretenimiento",HBO
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" tvg-id="" group-title="Entretenimiento",HBO 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBO2HD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" tvg-id="" group-title="Entretenimiento",HBO Plus
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOPLUSHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" tvg-id="" group-title="Entretenimiento",HBO Family
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOFAMILYHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" tvg-id="" group-title="Entretenimiento",HBO Xtreme
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbomundi.png" tvg-id="" group-title="Entretenimiento",HBO Mundi
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOMUNDIHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" tvg-id="" group-title="Entretenimiento",HBO POP
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOPOPHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignaturehd@2x.png" tvg-id="" group-title="Entretenimiento",HBO Signature
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOSIGNATUREHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" tvg-id="" group-title="Entretenimiento",Universal
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Cinema%20128%20ok.png" tvg-id="" group-title="Entretenimiento",Universal Cinema
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCINEMAHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Crime%20128%20ok.png" tvg-id="" group-title="Entretenimiento",Universal Crime
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCRIMEHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Comedy%20128%20ok.png" tvg-id="" group-title="Entretenimiento",Universal Comedy
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCOMEDYHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Reality%20128%20ok.png" tvg-id="" group-title="Entretenimiento",Universal Reality
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALREALITYHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Premiere%20128%20ok.png" tvg-id="" group-title="Entretenimiento",Universal Premiere
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALPREMIERHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" tvg-id="" group-title="Entretenimiento",Star Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" tvg-id="" group-title="Entretenimiento",FX
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" tvg-id="" group-title="Entretenimiento",Warner
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(WARNERCHANNELHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinemax@2x.png" tvg-id="" group-title="Entretenimiento",Cinemax
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINEMAX)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" tvg-id="" group-title="Entretenimiento",Space
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SPACEHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/studiouniversal@2x.png" tvg-id="" group-title="Entretenimiento",Studio Universal
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(STUDIOUNIVERSAL)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/sony.png" tvg-id="" group-title="Entretenimiento",Sony
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SONYHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Sony%20Movies%20128.png" tvg-id="" group-title="Entretenimiento",Sony Movies
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/paramount@2x.png" tvg-id="" group-title="Entretenimiento",Paramount Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PARAMOUNTHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" tvg-id="" group-title="Entretenimiento",AMC
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AMCHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" tvg-id="" group-title="Entretenimiento",AXN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AXNHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/usa@2x.png" tvg-id="" group-title="Entretenimiento",USA
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/glitz@2x.png" tvg-id="" group-title="Entretenimiento",Glitz
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GLITZ)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/adult-swim@2x.png" tvg-id="" group-title="Entretenimiento",Adult Swim
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TRUTVHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tcm@2x.png" tvg-id="" group-title="Entretenimiento",TCM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TCM)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/e@2x.png" tvg-id="" group-title="Entretenimiento",E!
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EENTERTAINMENT)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/europaeuropa@2x.png" tvg-id="" group-title="Entretenimiento",Europa Europa
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EUROPAEUROPAHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/comedycentral@2x.png" tvg-id="" group-title="Entretenimiento",Comedy Central
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(COMEDYCENTRALHD)/index.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/pakapaka.png" tvg-id="Pakapaka.ar" group-title="Infantil",Pakapaka 
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cartoonnetwork@2x.png" tvg-id="" group-title="Infantil",Cartoon Network
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://comodoro.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/LOGO%20CARTOONITO_128x128%20ON%20WHITE%20BACKGROUND.png" tvg-id="" group-title="Infantil",Cartoonito
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARTOONITO)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/disneychannel@2x.png" tvg-id="" group-title="Infantil",Disney Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYCHANNELHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/disneyjunior@2x.png" tvg-id="" group-title="Infantil",Disney Junior
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYJUNIORHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoverykids.png" tvg-id="" group-title="Infantil",Discovery Kids
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYKIDSHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/nick@2x.png" tvg-id="" group-title="Infantil",Nick
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/nickjr@2x.png" tvg-id="" group-title="Infantil",NickJr
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Dreamworks%20128.png" tvg-id="" group-title="Infantil",Dreamworks
-https://
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" group-title="Documental",Tec TV
-https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discovery@2x.png" tvg-id="" group-title="Documental",Discovery
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYCHANNELHD)/index.m3u8
-#EXTINF:-1 vg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryscience@2x.png" tvg-id="" group-title="Documental",Discovery Science
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYSCIENCEHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoverytheaterhd@2x.png" tvg-id="" group-title="Documental",Discovery Theater
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTHEATERHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryworldhd@2x.png" tvg-id="" group-title="Documental",Discovery World
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(WORLDDISCOVERYHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/investigationdiscovery@2x.png" tvg-id="" group-title="Documental",Discovery ID
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(INVESTIGATIONDISCOVERYHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/lifetime.png" tvg-id="" group-title="Documental",LifeTime
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LIFETIME)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/history%20128.png" tvg-id="" group-title="Documental",History
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HISTORYHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/history%202%20128.png" tvg-id="" group-title="Documental",History 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(H2)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/animalplanet@2x.png" tvg-id="" group-title="Documental",Animal Planet
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ANIMALPLANETHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/nationalgeographichd@2x.png" tvg-id="" group-title="Documental",NAT GEO
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NATIONALGEOGRAPHICHD)/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/mtv@2x.png" tvg-id="" group-title="Musica",MTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/MTV-00s-Logo-128px.png" tvg-id="" group-title="Musica",MTV 00s
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTV00SHD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Mtv%20hits%20128.png" tvg-id="" group-title="Musica",MTV Hits
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/htv@2x.png" tvg-id="" group-title="Musica",HTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/quieromimusica@2x.png" tvg-id="" group-title="Musica",Quiero Musica
-https://
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cm.jpg" tvg-id="" group-title="Musica",Canal De La Musica
-https://g2.mc-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
