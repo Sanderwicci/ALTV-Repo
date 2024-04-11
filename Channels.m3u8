@@ -2,11 +2,11 @@
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/america.png" tvg-id="" group-title="Aire",América
-https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/offline_logo.jpg
+https://edge-mix02-cte.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tvpublica.png" tvg-id="" group-title="Aire",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/elnueve.png" tvg-id="" group-title="Aire",El Nueve
-https://cdnb.artstation.com/p/assets/images/images/002/305/833/large/rami-m-twitch-offline01.jpg
+https://
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telefe.png" tvg-id="" group-title="Aire",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/eltrece.png" tvg-id="" group-title="Aire",El Trece
@@ -26,11 +26,11 @@ plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/cronica.png" tvg-id="CronicaTV.ar" group-title="Informativo",Crónica TV
 plugin://plugin.video.youtube/play/?video_id=avly0uwZzOE
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ipnoticias.png" tvg-id="Canal26.ar" group-title="Informativo",IP Noticias
-https://cdnb.artstation.com/p/assets/images/images/002/305/833/large/rami-m-twitch-offline01.jpg
+https://
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/encuentro.png" tvg-id="Encuentro.ar" group-title="General",Encuentro 
-plugin://plugin.video.youtube/play/?video_id=uowD4vZM9Js
+plugin://plugin.video.youtube/play/?video_id=cbdZJAmPsJQ
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/nettv.png" tvg-id="NETTV.ar" group-title="General",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telemax.png" tvg-id="Telemax.ar" group-title="General",Telemax
