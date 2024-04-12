@@ -48,9 +48,6 @@ https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/espn3_hls/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://tv-libre.com/img/espn4.webp" tvg-id="" group-title="Deportes",ESPN 4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Espn%20Extra%20128.png" tvg-id="" group-title="Deportes",ESPN Extra
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://router.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" tvg-id="" group-title="Deportes",FOX Sports
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
