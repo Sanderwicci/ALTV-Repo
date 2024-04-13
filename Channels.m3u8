@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=""
 
 #EXTINF:-1 group-title="GENERALES" tvg-id="La 1" tvg-logo="https://i.postimg.cc/FzdPMFp5/tve4k.png" ,DAZN F1
-plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
+plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tvpublica.png" tvg-id="" group-title="Aire",TV Pública
 http://iptvactivador.online:25461/gratism3ugeren/xtreamtvgratis/59
