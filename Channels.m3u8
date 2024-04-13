@@ -64,7 +64,7 @@ plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",DAZN 4 BAR
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",DAZN F1
-plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
+plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgaragetv@2x.png" tvg-id="" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
