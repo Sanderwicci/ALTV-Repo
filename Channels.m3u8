@@ -4,12 +4,7 @@
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tvpublica.png" tvg-id="" group-title="Aire",TV Pública
 http://iptvactivador.online:25461/gratism3ugeren/xtreamtvgratis/59
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telefe.png" tvg-id="" group-title="Aire",Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/eltrece.png" tvg-id="" group-title="Aire",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tn.png" tvg-id="TodoNoticias.ar" group-title="Informativo",TN
+Sanderwicci/ALTV-logos/main/tn.png" tvg-id="TodoNoticias.ar" group-title="Informativo",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ln+.png" tvg-id="LaNacionPlus.ar" group-title="Informativo",LN+
 plugin://plugin.video.youtube/play/?video_id=LY2XEQ_SSXA
@@ -70,10 +65,6 @@ plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",DAZN F1
 plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",Movistar +
-plugin://script.module.horus?action=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",Movistar | Liga De Campeones
-plugin://script.module.horus?action=ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgaragetv@2x.png" tvg-id="" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
