@@ -80,6 +80,9 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" tvg-id="CineAr.ar" group-title="Entretenimiento",Cine.AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Documental",Discovery Max
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
+https://tvup-live.akamaized.net/dmax6/dmax6.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
