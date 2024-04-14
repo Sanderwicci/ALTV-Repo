@@ -26,8 +26,7 @@ plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
 plugin://plugin.video.youtube/play/?video_id=avly0uwZzOE
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Informativo",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Informativo",DW
-plugin://plugin.video.youtube/play/?video_id=0XfWQGGcozo
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/encuentro.png" tvg-id="Encuentro.ar" group-title="General",Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
@@ -86,4 +85,4 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
-https://edge-mix02-cte.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
