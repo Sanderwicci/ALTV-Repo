@@ -75,5 +75,10 @@ plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d83681580
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" tvg-id="CineAr.ar" group-title="Entretenimiento",Cine.AR
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
 https://edge-mix02-cte.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
