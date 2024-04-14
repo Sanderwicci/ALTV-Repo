@@ -24,6 +24,8 @@ plugin://plugin.video.youtube/play/?video_id=Hy4UCfsE6Yk
 plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/cronica.png" tvg-id="CronicaTV.ar" group-title="Informativo",Crónica TV
 plugin://plugin.video.youtube/play/?video_id=avly0uwZzOE
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Informativo",RT
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/encuentro.png" tvg-id="Encuentro.ar" group-title="General",Encuentro
