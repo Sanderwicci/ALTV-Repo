@@ -22,7 +22,7 @@ plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/cronica.png" tvg-id="CronicaTV.ar" group-title="Informativo",Crónica TV
 plugin://plugin.video.youtube/play/?video_id=avly0uwZzOE
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ipnoticias.png" tvg-id="Canal26.ar" group-title="Informativo",IP Noticias
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CscFcNJkysE4fMoUYDiJgF0Zp1qfgUYC0WjtTzkDaAACl0Oh7nbHExm2Y31iVJ9_b6FHU1L1MhTtj9YPrL8NikR35PBWdRC5cbCXaGWZBTKh2cJus8ONSEFZBwk3roP6IH1iFzClhBCOqN-lYbkzIiYykG-pvjteSkXtbB74d3SNM26UxbhsdDj1lIHG7tQADChxeTogHUwhU1hDlUY6s2hUPajTjNVnqKnf6nQ--VMJj8fR-jSBrY7KEFiiuM04dLs5I07uPelp53ZwE81dSjzalk2GLMC2D4ue2SOcazUtr3pAWKhmNCsXJQ4sfVp_bD2HiwknVQOITWrN6OL24q8eq65kf-toLgoD85GQ-vaq8qmUwAEfbDJWbs8l-mZGKmVQXf_i6NmCGYwddIrVs2PYNmFY4iV0k54QA_UlLy5QmqMDC8GdgqVljOi0C5itNVMsYn7SHAdC41HEEYuTef-sloWzIlRfXTUgrnkg9NJpNENIu9m_uqDFU4HoXpcgaCQmWKf3jBdRpnfv39xZMPAxieqUBmhMTrNyPZpPg79pVpAdeJCmDqyLfcQk6FAxLyKI4_-9JMAji9MI2z__y3P9axLoppRIvtt1csz6_y3-y4v7MAv8VirIW4EVphTvLYNnbV99KBWLHv7gM1e5fiY4OBADOgIE_vKIIljH8_P6Ld7wPIiY9ip8O6wQ1zC2ATuZ8oTX645eeWHL2Qj6Y4ppD8CiEQV1HSxJLzgkO-JeBufPRAQz6-pAvGoZr1Fc1iBElNoJ6ezM1qQKhsceOJw2WhqXoG3xZNsuHYvSPQqjQ26pU1sGLyKR-Qv0SP0ASL1cKSnxXG4vcGtkQMrSaSh8XkblGn5K1FFYKgRRZm4z96VQeBoEu-x2ItC2MXYYrv3VShaDt1yxyrBYR3GMkbYseTHt5SJ7gH2zx2Mr9qVbIyT3EPO0SjojGgziprWU9vUuz4j9g0kgASoJdXMtZWFzdC0xMM4H.m3u8
+plugin://plugin.video.twitch/?mode=play&channel_name=ip_noticias
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Informativo",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
