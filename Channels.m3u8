@@ -22,7 +22,7 @@ plugin://plugin.video.youtube/play/?video_id=LY2XEQ_SSXA
 plugin://plugin.video.youtube/play/?video_id=QGpHLgRnrx4
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/c5n.png" tvg-id="C5N.ar" group-title="Informativo",C5N
 plugin://plugin.video.youtube/play/?video_id=Hy4UCfsE6Yk
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_canal26_1.png" tvg-id="Canal26.ar" group-title="Informativo",Canal 26
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/canal26.png" tvg-id="Canal26.ar" group-title="Informativo",Canal 26
 plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/cronica.png" tvg-id="CronicaTV.ar" group-title="Informativo",Crónica TV
 plugin://plugin.video.youtube/play/?video_id=avly0uwZzOE
