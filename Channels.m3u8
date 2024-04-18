@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url=""
 
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/america.png" tvg-id="" group-title="Aire",América
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/f024d0d0-294b-4ff8-8c35-14fa02faad0d:SCL/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tvpublica.png" tvg-id="" group-title="Aire",TV Pública
@@ -32,6 +33,7 @@ plugin://plugin.video.twitch/?mode=play&channel_name=ip_noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Informativo",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/encuentro.png" tvg-id="Encuentro.ar" group-title="General",Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
@@ -90,9 +92,11 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" tvg-id="CineAr.ar" group-title="Entretenimiento",Cine.AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
+
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Documental",Discovery Max
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/chunklist_b2700000_vo.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
