@@ -2,15 +2,15 @@
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/america.png" tvg-id="" group-title="Aire",América
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/f024d0d0-294b-4ff8-8c35-14fa02faad0d:SCL/master.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/a/la_tv_publica_ar_png.png" tvg-id="" group-title="Aire",TV Pública
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tvpublica.png" tvg-id="" group-title="Aire",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/0/0/00_logo_en_alta.png" tvg-id="" group-title="Aire",El Nueve
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/elnueve.png" tvg-id="" group-title="Aire",El Nueve
 plugin://plugin.video.twitch/?mode=play&channel_name=elnuevevivo
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telefe_logo_tx_blanco_alpha.png" tvg-id="" group-title="Aire",Telefe
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telefe.png" tvg-id="" group-title="Aire",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telefe_logo_tx_blanco_alpha.png" tvg-id="" group-title="Aire",Telefe DGO
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Aire",Telefe DGO
 plugin://plugin.video.twitch/?mode=play&channel_name=telefe
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/e/l/eltrece.png" tvg-id="" group-title="Aire",El Trece
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/eltrece.png" tvg-id="" group-title="Aire",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
