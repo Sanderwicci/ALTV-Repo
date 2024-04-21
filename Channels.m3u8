@@ -9,7 +9,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 plugin://plugin.video.twitch/?mode=play&channel_name=elnuevevivo
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telefe.png" tvg-id="" group-title="Aire",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Aire",Telefe DGO
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telefedgo.png" tvg-id="" group-title="Aire",Telefe DGO
 plugin://plugin.video.twitch/?mode=play&channel_name=telefe
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/eltrece.png" tvg-id="" group-title="Aire",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -29,9 +29,11 @@ plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
 plugin://plugin.video.youtube/play/?video_id=avly0uwZzOE
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ipnoticias.png" tvg-id="Canal26.ar" group-title="Informativo",IP Noticias
 plugin://plugin.video.twitch/?mode=play&channel_name=ip_noticias
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Informativo",RT
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/rt.png" tvg-id="" group-title="Informativo",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
-rwicci/ALTV-logos/main/encuentro.png" tvg-id="Encuentro.ar" group-title="General",Encuentro
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/encuentro.png" tvg-id="Encuentro.ar" group-title="General",Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/nettv.png" tvg-id="NETTV.ar" group-title="General",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -43,45 +45,44 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/deportv.png" tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w607596883.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" tvg-id="" group-title="Deportes",TYC Sports
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tycsports.png" tvg-id="" group-title="Deportes",TYC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%20128x128.png" tvg-id="" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/espn.png" tvg-id="" group-title="Deportes",ESPN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://router.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%202%20128x128.png" tvg-id="" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/espn2.png" tvg-id="" group-title="Deportes",ESPN 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%203%20128x128.png" tvg-id="" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/espn3.png" tvg-id="" group-title="Deportes",ESPN 3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://delivery.cdn.rcs.net.ar/mnp/espn3_hls/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://tv-libre.com/img/espn4.webp" tvg-id="" group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/espn4.png" tvg-id="" group-title="Deportes",ESPN 4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://router.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" tvg-id="" group-title="Deportes",FOX Sports
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/foxsports.png" tvg-id="" group-title="Deportes",FOX Sports
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" tvg-id="" group-title="Deportes",FOX Sports 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/foxsports2.png" tvg-id="" group-title="Deportes",FOX Sports 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" tvg-id="" group-title="Deportes",FOX Sports 3
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/foxsports3.png" tvg-id="" group-title="Deportes",FOX Sports 3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",DAZN 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/dazn1.png" tvg-id="" group-title="Deportes",DAZN 1
 plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",DAZN 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/dazn2.png" tvg-id="" group-title="Deportes",DAZN 2
 plugin://script.module.horus?action=play&id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",DAZN 3
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/dazn3.png" tvg-id="" group-title="Deportes",DAZN 3
 plugin://script.module.horus?action=play&id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",DAZN 4
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/dazn4.png" tvg-id="" group-title="Deportes",DAZN 4
 plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",DAZN 4 BAR
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/dazn4bar.png" tvg-id="" group-title="Deportes",DAZN 4 BAR
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",DAZN F1
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/daznf1.png" tvg-id="" group-title="Deportes",DAZN F1
 plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Deportes",DAZN Combat
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgaragetv@2x.png" tvg-id="" group-title="Deportes",Garage TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/elgaragetv.png" tvg-id="" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 
