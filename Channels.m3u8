@@ -18,7 +18,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tn.png" tvg-id="TodoNoticias.ar" group-title="Informativo",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ln+.png" tvg-id="LaNacionPlus.ar" group-title="Informativo",LN+
-plugin://plugin.video.youtube/play/?video_id=LY2XEQ_SSXA
+plugin://plugin.video.youtube/play/?video_id=KBwbyRdTC5E
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/a24.png" tvg-id="A24.ar" group-title="Informativo",A24
 plugin://plugin.video.youtube/play/?video_id=QGpHLgRnrx4
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/c5n.png" tvg-id="C5N.ar" group-title="Informativo",C5N
