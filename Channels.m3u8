@@ -1,47 +1,47 @@
 #EXTM3U x-tvg-url=""
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/america.png" tvg-id="" group-title="Aire",América
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/america.png" group-title="Aire",América
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/f024d0d0-294b-4ff8-8c35-14fa02faad0d:SCL/master.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tvpublica.png" tvg-id="" group-title="Aire",TV Pública
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tvpublica.png" group-title="Aire",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/elnueve.png" tvg-id="" group-title="Aire",El Nueve
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/elnueve.png" group-title="Aire",El Nueve
 plugin://plugin.video.twitch/?mode=play&channel_name=elnuevevivo
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telefe.png" tvg-id="" group-title="Aire",Telefe
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telefe.png" group-title="Aire",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telefedgo.png" tvg-id="" group-title="Aire",Telefe DGO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telefedgo.png" group-title="Aire",Telefe DGO
 plugin://plugin.video.twitch/?mode=play&channel_name=telefe
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/eltrece.png" tvg-id="" group-title="Aire",El Trece
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/eltrece.png" group-title="Aire",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tn.png" tvg-id="TodoNoticias.ar" group-title="Informativo",TN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tn.png" group-title="Informativo",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ln+.png" tvg-id="LaNacionPlus.ar" group-title="Informativo",LN+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ln+.png" group-title="Informativo",LN+
 plugin://plugin.video.youtube/play/?video_id=ocFG3yor--M
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/a24.png" tvg-id="A24.ar" group-title="Informativo",A24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/a24.png" group-title="Informativo",A24
 plugin://plugin.video.youtube/play/?video_id=QGpHLgRnrx4
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/c5n.png" tvg-id="C5N.ar" group-title="Informativo",C5N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/c5n.png" group-title="Informativo",C5N
 plugin://plugin.video.youtube/play/?video_id=Hy4UCfsE6Yk
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/canal26.png" tvg-id="Canal26.ar" group-title="Informativo",Canal 26
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/canal26.png" group-title="Informativo",Canal 26
 plugin://plugin.video.youtube/play/?video_id=RnTmtVFTSf0
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/cronica.png" tvg-id="CronicaTV.ar" group-title="Informativo",Crónica TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/cronica.png" group-title="Informativo",Crónica TV
 plugin://plugin.video.youtube/play/?video_id=avly0uwZzOE
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ipnoticias.png" tvg-id="Canal26.ar" group-title="Informativo",IP Noticias
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ipnoticias.png" group-title="Informativo",IP Noticias
 plugin://plugin.video.twitch/?mode=play&channel_name=ip_noticias
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/rt.png" tvg-id="" group-title="Informativo",RT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/rt.png" group-title="Informativo",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/encuentro.png" tvg-id="Encuentro.ar" group-title="General",Encuentro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/encuentro.png" group-title="General",Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/nettv.png" tvg-id="NETTV.ar" group-title="General",Net TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/nettv.png" group-title="General",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telemax.png" tvg-id="Telemax.ar" group-title="General",Telemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/telemax.png" group-title="General",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/latinatv.png" tvg-id="" group-title="General",Latina TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/latinatv.png" group-title="General",Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/terramia.png" tvg-id="" group-title="General",Tierra Mia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/terramia.png" group-title="General",Tierra Mia
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 
 
@@ -86,14 +86,9 @@ plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d83681580
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" tvg-id="CineAr.ar" group-title="Entretenimiento",Cine.AR
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" tvg-id="CineAr.ar" group-title="Entretenimiento",Cine.AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="Documental",Discovery Max
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 7.1.2; MI 5X; Flow)"
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/chunklist_b2700000_vo.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" tvg-id="" group-title="Musica",MusicTop
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
