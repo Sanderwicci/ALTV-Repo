@@ -16,7 +16,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/tn.png" group-title="Informativo",TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=cb12KmMMDJA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/ln+.png" group-title="Informativo",LN+
 plugin://plugin.video.youtube/play/?video_id=ocFG3yor--M
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sanderwicci/ALTV-logos/main/a24.png" group-title="Informativo",A24
