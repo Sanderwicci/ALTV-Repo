@@ -87,7 +87,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" tvg-id="CineAr.ar" group-title="Entretenimiento",Cine.AR
-https://drs.pricesaskeloadsc.com/dsports/index.m3u8?token=4ad0bfa7753bab487d334b31e6e10f9c536c43a3-22-1720695448-1720641448
+https://21.tiofutbol.com/lb/dsports/index.m3u8?token=6cae23409a35c7e75d28b2e319c3f7657f087a46-500a8d92dc93bd241a7f53ffa11a9006-1720927860-1720917060&remote=190.174.117.35
 
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" group-title="Musica",MusicTop
